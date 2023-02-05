@@ -265,7 +265,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 40px;
   font-weight: 300;
   letter-spacing: 0.8px;
-  line-height: 0.5;
+  line-height: 1;
   margin-bottom: 20px;
   font-style: italic;
   display: block;
